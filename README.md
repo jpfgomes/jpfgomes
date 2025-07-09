@@ -7,6 +7,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpfgomes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpfgomes&theme=dark)](https://git.io/streak-stats)
-[📧 joaopedrogomes0507@gmail.com](mailto:joaopedrogomes0507@gmail.com)
-
-[🔗 Meu LinkedIn](https://www.linkedin.com/in/joão-pedro-gomes-133a192b0)
+<p align="left">
+  <a href="mailto:joaopedrogomes0507@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joão-pedro-gomes-133a192b0">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
